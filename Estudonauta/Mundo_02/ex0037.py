@@ -43,6 +43,7 @@ elif escolha == "2":
 
 elif escolha == "3":
     print("{}".format(hex(num)[2:]))
+    print("")
 
 else:
     print("\nOpção invalida!")
