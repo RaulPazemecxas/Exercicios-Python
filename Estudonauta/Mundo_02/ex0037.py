@@ -23,6 +23,8 @@ print("""Você deseja converter para qual base? 🔎:
     ####### [2] octal  
     ####### [3] hexadecimal 
     """)
+
+
 while True:
         try:
             escolha = str(input("Digite a opção: "))
