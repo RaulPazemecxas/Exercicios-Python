@@ -48,3 +48,8 @@ elif idade < 18:
      print("Ainda resta(m) {} ano(s) para você se apresentar".format(18 - idade))
 elif idade > 18:
         print("Você deveria ter se alistado hà {} ano(s)".format(idade - 18))
+else:
+    print("Erro")
+
+print("Data atual: ", atual)
+
